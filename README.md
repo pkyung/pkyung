@@ -34,9 +34,9 @@
 <br>
 
 ### 📞연락망
-<sup>✉ email : 2dmsrud2002@naver.com</sup>
+✉ email : 2dmsrud2002@naver.com
 <br>
-<sup>✍ blog : https://p-kyung.tistory.com/</sup> 
+✍ blog : https://p-kyung.tistory.com/
 
 
 <br>
