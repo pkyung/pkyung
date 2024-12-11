@@ -16,7 +16,7 @@
 <br>
 
 ### 👩‍💻활동 및 교육 내역
-- 👩🏻‍🎓 Chungnam National Univ.Department of Computer Sience Engineering : <sub>2021.03 ~ 2025.02</sup></sub><br>
+- 👩🏻‍🎓 Chungnam National Univ.Department of Computer Science Engineering : <sub>2021.03 ~ 2025.02</sup></sub><br>
 - [교육] 카카오테크캠퍼스 2기 백엔드 과정 / 카카오 <sub>2024.03 ~ 2024.11</sup><br>
 - [활동] 백마인턴십 메리핸드 : Backend Intern <sub>2023.09~2023.12</sup><br>
 - [활동] 충남대학교 멋쟁이 사자처럼 11기 운영진 <sub>2023.02 ~ 2023.12</sup><br>
